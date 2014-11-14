@@ -1,5 +1,5 @@
 /*
-
+205COM-
 */
 
 
@@ -49,6 +49,7 @@ a:hover, a:active {
 .mainHeader nav ul li {
     float: left;
     display: inline;
+    margin-left: 0%
 }
 .mainHeader nav a:link, .mainHeader nav a:visited {
     color: #FFF;
@@ -100,6 +101,7 @@ a:hover, a:active {
     margin-bottom: 3%;
     margin-top: 75%;
     padding: 2% 3%;
+    float: inherit;
 }
 .middle-sidebar {
     width: 27%;
@@ -147,7 +149,7 @@ a:hover, a:active {
 
 
 /*
-Below is the style sheet for the enquiry page
+Below is the style sheet for the enquiry for page
 */
 .form label {
     display: block;
@@ -179,7 +181,7 @@ textarea {
     font-family: Arial;
 }
 input:focus, textarea:focus {
-    border:1px solid #CF5C3F;
+    border:1px #CF5C3F;
 }
 #submit {
     width: 35%;
@@ -193,9 +195,6 @@ input:focus, textarea:focus {
 }
 
 
-    
-
-    
 
 
 
